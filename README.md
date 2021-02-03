@@ -1,6 +1,6 @@
 # IP-Camera-Monitoring
 
-1. Ppopular IP camera vendors in India from Indiamart and CPPlus website.
+1. Popular IP camera vendors in India from Indiamart and CPPlus website.
 2. Popular IP camera vendors with protocols mentioned were researched and their datasheets collected.
 3. Captured the streams from the IP cameras using video component.
 4. Sending the frames captured via Video component to Object Detection.
