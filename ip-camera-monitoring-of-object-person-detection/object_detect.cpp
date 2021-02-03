@@ -1,6 +1,6 @@
 /**
  * @file object_detect.cpp
- * @brief Example for object detection using Shunya AI binaries
+ * @brief Example for object detection using Shunya AI library binaries
  */
 
 #include <iostream>
