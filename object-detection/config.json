@@ -1,0 +1,18 @@
+{
+    "test-db" : {
+        "influxdbUrl": "http://148.253.91.253:8086/",
+        "influxdbDBName": "test-db"
+    },
+    "camera": {
+        "streamUrl": "udp://localhost:9090"
+    },
+    "videoStore": {
+        "storeType": "video",
+        "storePath": "/home/shunya/Desktop",
+        "videoFps": 10
+    },
+    "imageStore": {
+        "storeType": "image",
+        "storePath": "/home/shunya/Desktop"
+    }
+}
